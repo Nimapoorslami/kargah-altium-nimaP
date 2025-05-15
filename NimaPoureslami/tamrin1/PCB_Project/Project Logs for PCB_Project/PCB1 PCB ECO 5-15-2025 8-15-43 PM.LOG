@@ -1,0 +1,10 @@
+Added Component: Designator=BT1(BTH_AA)
+Add component (AddParameter): Name = "."; Value = "http://www.chila.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "Keystone 82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "BAT1.5volt_AA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetD1_2 Pin=BT1-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=5v+
+Change Net Name : Old Net Name=NetD1_2 New Net Name=5v-
+Added Member To Class: ClassName=tamrin1Nima Member=Component BT1 BAT1.5volt_AA
