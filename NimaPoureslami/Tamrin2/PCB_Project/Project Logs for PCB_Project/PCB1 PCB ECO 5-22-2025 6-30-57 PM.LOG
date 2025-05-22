@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CONN_GMSTB2
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 DB3
+Added Member To Class: ClassName=Sheet1 Member=Component R2 POT10K
